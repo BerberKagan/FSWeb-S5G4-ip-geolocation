@@ -52,5 +52,5 @@ Bu projede Ergineer IP Geolocation API'sine sorgu atacağız ve sonuçlarla IP'y
 
 ### Bölüm 3: IP'nizi dinamik olarak alın
 
-* Eğer scripti geliştirirken IP'yi elinizle girdiyseniz şimdi bunu dinamik hale dönüştüreceğiz. `ip/index.js` sayfa üstündeki ipAdresimiAl() fonksiyonuna asenkron bir sorgu atarak ip'yi dinamik hale getirin, sayfadaki yönergeleri izleyebilirsiniz. 
+* Eğer scripti geliştirirken IP'yi elinizle girdiyseniz şimdi bunu dinamik hale dönüştüreceğiz. `ip/index.js` sayfa üstündeki ipAdresimiAl() fonksiyonuna asenkron bir sorgu atarak ip'yi dinamik hale getirin, sayfadaki yönergeleri izleyebilirsiniz.
 
